@@ -7,6 +7,7 @@
     <groupId>cn.ksdshpx.maven</groupId>
     <artifactId>MavenWeb</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>war</packaging>
 
     <dependencies>
         <dependency>
