@@ -14,6 +14,12 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <modules>
+        <module>../MavenFirst</module>
+        <module>../MavenSecond</module>
+        <module>../MavenThree</module>
+    </modules>
+
     <dependencyManagement>
         <dependencies>
             <dependency>
